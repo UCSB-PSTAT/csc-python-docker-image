@@ -2,7 +2,7 @@
 
 Follow these instructions:
 
-## Mac:
+### Mac:
 https://docs.docker.com/docker-for-mac/install/
 
 ### Windows:
