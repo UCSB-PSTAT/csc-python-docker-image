@@ -1,10 +1,8 @@
-# csc-python-docker-image
-
 # Installing Docker for Mac/Win
 
 Follow these instructions:
 
-# Mac:
+## Mac:
 https://docs.docker.com/docker-for-mac/install/
 
 # Windows:
