@@ -5,5 +5,5 @@ Follow these instructions:
 ## Mac:
 https://docs.docker.com/docker-for-mac/install/
 
-# Windows:
+### Windows:
 https://docs.docker.com/docker-for-windows/install/
