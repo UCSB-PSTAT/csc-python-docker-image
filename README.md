@@ -9,7 +9,7 @@ https://docs.docker.com/docker-for-mac/install/
 https://docs.docker.com/docker-for-windows/install/
 
 #### Build command for this docker image:
-Docker build --no-cache -t csc-python:latest
+Docker build --no-cache -t csc-python:latest .
 
 ## Persistant storage commands
 #### Run command for Mac users (This command will mount your documents folder within the container)
