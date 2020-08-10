@@ -12,6 +12,7 @@ https://docs.docker.com/docker-for-windows/install/
 Docker build --no-cache -t csc-python:latest .
 
 ## Persistant storage commands
+### (mounting your current working directory to your docker container in Mac and Windows)
 #### Run command for Mac users (This command will mount your documents folder within the container)
 docker run --rm -it -v $HOME/Documents:/home/jovyan/work -p 8888:8888 -e JUPYTER_ENABLE_LAB=YES csc-python:latest
 
